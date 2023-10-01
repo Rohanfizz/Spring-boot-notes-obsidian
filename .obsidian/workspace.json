@@ -1,0 +1,249 @@
+{
+  "main": {
+    "id": "630fc6ec9c9fd094",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3024439642ffdc3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70012f599be35039",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CRUD using JPA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8e9980db2bc56a12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Application Properties file.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fdfbe815836bddfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Important Documentation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "535b59caff112aeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Delete Object using JPA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "34f8e4f4915db83e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "REST.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9e57f2f2f9b56b1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Delete Object using JPA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "71ada2c1b6aacc18",
+    "type": "split",
+    "children": [
+      {
+        "id": "100fb3a7daac8c9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a89547311e96ee8b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "9e3456478451a380",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "security",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "01dbb84f615d8101",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 488.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "9bbcd65b06f4109d",
+    "type": "split",
+    "children": [
+      {
+        "id": "291f88bd77f2e246",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2bf37ac45e4e459",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "REST.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "08a582033387818b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "REST.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c85a707cf829fceb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9a2d42a7a6dfdb70",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "REST.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "34f8e4f4915db83e",
+  "lastOpenFiles": [
+    "Delete Object using JPA.md",
+    "REST.md",
+    "Important Documentation.md",
+    "Application Properties file.md",
+    "Creating Tables.md",
+    "Pasted image 20230928131642.png",
+    "Entity Class.md",
+    "CRUD using JPA.md",
+    "Find Objects using JPA.md",
+    "Annotations.md",
+    "Creating and Data Access Object.md",
+    "Created Student Schema.md",
+    "Bean Scopes & @Scope.md",
+    "Bean LifeCycle.md",
+    "Entity Manager.md",
+    "Hibernate & JPA.md",
+    "JPA Query Language (JPQL).md",
+    "Updating using JPA.md",
+    "Bean & Configuration Annotation.md",
+    "Lazy Initialization.md",
+    "[Created Student Schema.md",
+    "1. Spring Boot Introduction.md",
+    "Primary Annotation.md",
+    "Component Scanning.md",
+    "Field Injection.md",
+    "Dependency Injection Types.md",
+    "3. RestController Example.md",
+    "Pasted image 20230924023555.png",
+    "Pasted image 20230923021641.png",
+    "Pasted image 20230923015934.png",
+    "Pasted image 20230921015951.png",
+    "Pasted image 20230921012610.png",
+    "Pasted image 20230921012516.png",
+    "Pasted image 20230921012441.png",
+    "Pasted image 20230921010140.png"
+  ]
+}

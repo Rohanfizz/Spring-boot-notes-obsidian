@@ -1,0 +1,13 @@
+- `@RestController`
+- `@Component`
+- `@Autowired`
+- `@GetMapping("/dailyWorkout")`
+- [[Qualifier Annotation]] 
+- [[Primary Annotation]]
+- [[Lazy Annotation]]
+- [[Bean Scopes & @Scope|Scope Annotation]] 
+- [[Bean LifeCycle| @PostConstruct & @PreDestroy]]
+- [[Bean & Configuration Annotation]]
+- [[Created Student Schema |@Id,@Table,@Column,@GeneratedValue]]
+- Transactional is written when updating or saving to DB
+- ![[Pasted image 20230921012610.png]]
